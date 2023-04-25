@@ -1,1 +1,1 @@
-# CL
+# Computationele Linguïstiek
